@@ -7,11 +7,13 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Protest+Guerrilla&weight=900&size=45&pause=1000&color=F78918&width=835&height=100&lines=CurAi+System+%F0%9F%98%8A%E2%9C%8C%EF%B8%8F" alt="Typing SVG" /></a>
 
+
+**CurAi** is an integrated **healthcare platform** that enables seamless interaction between patients, doctors, and administrators. It consists of a **mobile application**, **AI-powered services**, a **web version of the app**, and a **RESTful backend API** — all working together to offer a smart and reliable healthcare experience.
+
 ---
 
 ## 📑 Table of Contents
 
-- [🧠 Overview](#-curai-smart-medical-platform)
 - [🚀 Tracks Overview](#-tracks-overview)
   - [📱 Mobile App (Flutter)](#mobile-app-flutter)
   - [🧠 AI & ML](#ai--ml)
@@ -25,11 +27,7 @@
 
 ---
 
-## 🧠 CurAi: Smart Medical Platform
 
-**CurAi** is an integrated **healthcare platform** that enables seamless interaction between patients, doctors, and administrators. It consists of a **mobile application**, **AI-powered services**, a **web version of the app**, and a **RESTful backend API** — all working together to offer a smart and reliable healthcare experience.
-
----
 
 ## 🚀 Tracks Overview
 
