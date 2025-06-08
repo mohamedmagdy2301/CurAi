@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "563850624574",
+    "project_id": "curai-app",
+    "storage_bucket": "curai-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563850624574:android:ab67baf80482632a28db6f",
+        "android_client_info": {
+          "package_name": "com.graduation.curai_app_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlQrVOX2t3PVQJfJCu3iTlRKEnrXPZT-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
