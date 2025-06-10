@@ -1,4 +1,4 @@
-
+#
 <div align="center">
 
 # *"وَقُلْ رَبِّ زِدْنِي عِلْمًا"*
@@ -123,12 +123,12 @@
 | **Database** | PostgreSQL, SQLite |
 | **Storage** | Hive, SecurePrefs |
 | **Payments** | Paymob |
-| **Notifications** | Firebase, flutter_local_notifications |
+| **Notifications** |flutter_local_notifications |
 | **Translation** | `translator` |
 | **Speech** | `flutter_tts` |
 | **Monitoring** | Sentry |
 | **Maps** | `flutter_open_street` |
-| **DevOps** | Docker, GitHub Actions (TBD) |
+
 
 ---
 
